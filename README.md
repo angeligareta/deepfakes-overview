@@ -22,7 +22,7 @@ is the so-called "deep fakes". This research has the goal of introducing this ty
 showing state-of-the-art implementations in the area and examples of what this technology is
 capable of.
 
-Below is presented a summary of the actual research, the full paper can be found at [Deepfakes Introduction and Latest Implementation](docs/report.pdf). Here is a video summarizing the research presented, in case you prefer the visual to the textual 😄
+Below is presented a summary of the actual research, the full paper can be found at [Deepfakes: Introduction and Latest Implementation](docs/deepfakes_general.pdf) or [Deepfakes: Introduction and Applications in Digital Health](docs/deepfakes_digital_health.pdf) for a more focused report on Digital Health. Also, here is a video summarizing the research presented, in case you prefer the visual to the textual 😄
 
 <a href="https://youtu.be/pMBDYBeo8cE" alt="Watch the video" target="_blank">
 <p align="center">
@@ -86,6 +86,7 @@ of deepfakes and their detection and not to support the creation of nefarious co
 Regarding face swapping, by using the Google Colab demo from the repository Motion Supervised co-part Segmentation [8], the results represented in the figure below were generated. The first
 result was produced through unsupervised segmentation, while the second one was formed using
 supervised part-swaps.
+
 <p align="center">
  <img src="docs/motion-supervised.jpg" alt="motion-supervised"  width="50%"/>
 </p>
