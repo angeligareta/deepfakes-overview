@@ -8,7 +8,7 @@ presenting the state of the art implementations in the area and examples of what
 </p>
 
 <p align="center">
-<img src="docs/general-deepfake.gif" alt="general deepfake"  width="75%"/>
+<img src="docs/general-deepfake.gif" alt="general deepfake"  width="85%"/>
 </p>
 
 ## Abstract
@@ -97,7 +97,7 @@ of the demo and generating deepfakes with a picture of myself as the source imag
 in different driving videos, two of them represented in the figure.
 
 <p align="center">
-<img src="docs/greta-deepfake.gif" alt="greta deepfake"  width="50%"/>
+<img src="docs/greta-deepfake.gif" alt="greta deepfake"  width="70%"/>
 </p>
 
 ## Conclusions
