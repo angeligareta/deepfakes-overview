@@ -1,4 +1,6 @@
 <h1 align="center">Deepfakes: Introduction and Latest Implementation</h1>
+<h4 align="center"> This research aims to introduce deep fakes,
+presenting the state of the art implementations in the area and examples of what such technology is capable of doing. </h4>
 
 <p align="center">
   <img alt="UPM" src="https://img.shields.io/badge/EIT%20Digital-UPM-blue?style=flat-square">
