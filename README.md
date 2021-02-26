@@ -21,7 +21,12 @@ showing state-of-the-art implementations in the area and examples of what this t
 capable of.
 
 Below is presented a summary of the actual research, the full paper can be found at [Deepfakes Introduction and Latest Implementation](docs/report.pdf). Here is a video summarizing the research presented, in case you prefer the visual to the textual 😄
-[![Watch the video](docs/deepfakes-video-preview.jpg)](https://youtu.be/pMBDYBeo8cE)
+
+<a href="https://youtu.be/pMBDYBeo8cE" alt="Watch the video" target="_blank">
+<p align="center">
+<img src="docs/deepfakes-video-preview.jpg" alt="general deepfake"  width="75%"/>
+</p>
+</a>
 
 ## Introduction
 
