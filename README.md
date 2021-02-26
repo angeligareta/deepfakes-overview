@@ -79,8 +79,9 @@ of deepfakes and their detection and not to support the creation of nefarious co
 Regarding face swapping, by using the Google Colab demo from the repository Motion Supervised co-part Segmentation [8], the results represented in the figure below were generated. The first
 result was produced through unsupervised segmentation, while the second one was formed using
 supervised part-swaps.
-
-![motion-supervised](docs/motion-supervised.jpg)
+<p align="center">
+ <img src="docs/motion-supervised.jpg" alt="motion-supervised"  width="50%"/>
+</p>
 
 On top of that, below are displayed some examples from the First Order Motion
 Model for Image Animation Demo [13]. It was made in Google Colab modifying the original version
